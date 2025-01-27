@@ -18,8 +18,8 @@ This project uses Python 3.9 and TensorFlow 2.6.0. It is recommended to use a Co
 ### Steps to set up the environment:
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/tryIcatch/DefenMI.git
+   cd DefenMI
    ```
 2. Create a virtual environment using the provided `environment.yml` file:
    ```bash
