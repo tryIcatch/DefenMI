@@ -72,7 +72,6 @@ If you use this code or the methodology in your research, please cite the origin
 ```
 @article{DefenMI,
   title={DefenMI: Security Outsourcing Defense Against Membership Inference Attacks},
-  author={hua shen,haocheng jiang},
   journal={Information Processing & Management},
   year={2025}
 }
